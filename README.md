@@ -1,10 +1,10 @@
-# 🧮 Uni-MuMER-Qwen2.5-VL-7B Streamlit Demo
+# 🧮 TAMER: Tree-Aware Transformer for Handwritten Mathematical Expression Recognition - Streamlit Demo
 
-Ứng dụng Streamlit để demo mô hình **Uni-MuMER-Qwen2.5-VL-7B** - chuyển đổi ảnh toán học thành LaTeX code.
+Ứng dụng Streamlit để demo mô hình **TAMER: Tree-Aware Transformer for Handwritten Mathematical Expression Recognition** - chuyển đổi ảnh toán học thành LaTeX code.
 
 ## 📋 Mô tả
 
-Uni-MuMER-Qwen2.5-VL-7B là một mô hình Vision-Language được fine-tune từ Qwen2.5-VL-7B-Instruct, chuyên dụng để chuyển đổi ảnh chứa công thức toán học thành mã LaTeX. Ứng dụng này cung cấp giao diện web thân thiện để demo khả năng của mô hình.
+TAMER: Tree-Aware Transformer for Handwritten Mathematical Expression Recognition là một mô hình Vision-Language được fine-tune từ Qwen2.5-VL-7B-Instruct, chuyên dụng để chuyển đổi ảnh chứa công thức toán học thành mã LaTeX. Ứng dụng này cung cấp giao diện web thân thiện để demo khả năng của mô hình.
 
 ## ✨ Tính năng
 
